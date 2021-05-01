@@ -1,0 +1,30 @@
+body {
+    background-color: blueviolet;
+}
+
+#title {
+    background-color: darkturquoise;
+    color: crimson;
+    margin-top: 20px;
+}
+
+#content {
+    margin: 20px 5%;
+    background-color: darkkhaki;
+    padding: 30px;
+}
+
+#description {
+    background-color: rgb(255, 153, 0);
+    padding: 0 20px;
+    color: rgb(0, 4, 255);
+    font-weight: 900;
+}
+
+#image_drole {
+    width: 100%;
+}
+
+#btn_repo_git {
+    width: 200px;
+}
